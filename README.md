@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aditya sen</h1>
-<h3 align="center">A passionate frontend developer from Indore</h3>
+<h1 align="center">Hi 👋, I'm Shivani Rajbhar</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p>i have created this Weather app using pure react </p>
+<p>i have created this Weather app using react </p>
 
 # live code preview
 <p align="center">
